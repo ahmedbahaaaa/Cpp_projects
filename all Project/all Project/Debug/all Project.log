@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\all Project\all Project\Source.cpp(12,13): warning C4101: 'choice': unreferenced local variable
+  all Project.vcxproj -> D:\all Project\Debug\all Project.exe
